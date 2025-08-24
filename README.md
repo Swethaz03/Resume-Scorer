@@ -8,3 +8,6 @@ Missing skills that need improvement
 Job recommendations based on the candidate’s profile
 
 LLM-generated feedback with actionable improvements, free course links, and motivational tips
+
+Screenshots
+https://drive.google.com/drive/folders/1mCbmByHRGOTRLfCeLurMO3W6OVpH57GS?usp=sharing
